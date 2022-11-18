@@ -1,0 +1,23 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#color{
+    padding: 15px 40px;
+    font-size: 1.2em;
+    background: white ;
+    border-radius: 0.5em;
+    cursor: pointer;
+    border: 2px solid;
+}
